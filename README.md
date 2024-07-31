@@ -2,7 +2,7 @@
 
  Meu nome é Douglas Taichi
  - estou estudando na Alura;
- - estou me desenvolvendona linguagem JavaScript;
+ - estou me desenvolvendo na linguagem JavaScript;
  - Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos;
 
 ## Você pode entrar em contato comigo 📬
